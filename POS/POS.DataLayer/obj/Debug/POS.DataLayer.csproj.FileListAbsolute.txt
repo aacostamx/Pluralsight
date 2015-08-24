@@ -1,0 +1,12 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\POS.DataLayer.dll.config
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\POS.DataLayer.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\POS.DataLayer.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\POS.Model.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\POS.Model.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\obj\Debug\POS.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\obj\Debug\POS.DataLayer.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.DataLayer\obj\Debug\POS.DataLayer.pdb

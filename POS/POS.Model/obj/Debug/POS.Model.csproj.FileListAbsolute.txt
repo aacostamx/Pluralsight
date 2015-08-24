@@ -1,0 +1,4 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.Model\bin\Debug\POS.Model.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.Model\bin\Debug\POS.Model.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.Model\obj\Debug\POS.Model.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\Pluralsight\POS\POS.Model\obj\Debug\POS.Model.pdb
